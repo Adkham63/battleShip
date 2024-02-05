@@ -1,7 +1,7 @@
 {
   "name": "battleship",
   "version": "1.0.0",
-  "description": "Multiplayer Battleship Game",
+  "description": "Single Battleship Game",
   "main": "server.js",
   "scripts": {
     "start": "node server",
