@@ -1,6 +1,6 @@
 ### Inspiration of design part and functionality were inspired by Ania Kubow and Web Dev Simplified.
 
-### I created the only single-player clone game "Sea Battle" for educational purposes, where the user can pay using a computer. 
+### I created the only single-player clone game "Sea Battle" for educational purposes, where the user can play using a computer. 
 
 ### Getting started
 
